@@ -1,0 +1,7 @@
+dijkstra.in -- A sample input file
+
+Format:
+
+First line: <number of nodes> <number of edges>
+Subsequent lines: One edge per line: <from> <to> <length>
+Final line: The starting node
