@@ -1,0 +1,1 @@
+void dfs(int nodeCount, int edgeCount, char** matrix, char* visited, int currentNode);
